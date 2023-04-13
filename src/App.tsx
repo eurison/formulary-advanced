@@ -6,7 +6,7 @@ import './styles/global.css'
  * @To-do
  *
  * [x] Validação / transformação
- * [ ] Fiesl array
+ * [x] Field array
  * [ ] Uploand de arquivos
  * [ ] composition Pattern
  *
